@@ -14,7 +14,7 @@ It could be better if te data set has also a site id column
 
 
 
-```{r}
+```R
 
 source("functions/fun_coord_date_weather.r")
 
